@@ -9,7 +9,7 @@ TimeToWorkout is a workout tracking app that allows users to plan and record the
 
 1. **Map Rendering**: The app uses the Leaflet api to display an interactive map. Users can see their current location and plan their workout routes.
 
-2. **Workout Tracking**: Users can start running or cycling sessions. For each workout, they need to provide the following details:
+2. **Workout Tracking**: Users can start running or cycling sessions. For each workout by clicking on the map location , they need to provide the following details:
     - **Distance**: The distance covered during the workout (in kilometers or miles).
     - **Duration**: The time taken for the workout (in minutes or hours).
     - **Cadence**: The steps per minute (for running) or pedal rotations per minute (for cycling).
