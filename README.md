@@ -3,7 +3,7 @@
 
 TimeToWorkout is a workout tracking app that allows users to plan and record their running or cycling sessions. It utilizes the Leaflet API to display maps, track workouts, and store relevant information.
 
-## URL:https:https://timetoworkout.netlify.app/ 
+## URL: https:https://timetoworkout.netlify.app/ 
 
 ## Features 🚀🚀
 
